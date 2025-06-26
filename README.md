@@ -11,8 +11,8 @@ A Flappy Bird clone built with Python and Pygame, featuring:
 
 ### 1. Clone the repository
 ```
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/tuitejc-firebolt/FlappyFirebolt.git
+cd FlappyFirebolt
 ```
 
 ### 2. Create and activate a virtual environment
