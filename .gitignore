@@ -1,0 +1,26 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+images/firebolt-logo.png
+.DS_Store
+SQL/
+*.sqlite3
+*.db
+*.log
+*.pyo
+*.pyd
+.idea/
+.vscode/
+# OS junk files
+Thumbs.db
+
+# Python egg files
+*.egg-info/
+*.egg
+
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
