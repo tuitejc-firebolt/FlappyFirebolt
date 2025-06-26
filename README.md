@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ### 4. Configure Firebolt credentials
 Create a `.env` file in the project root with the following content:
 ```
-FIREBOLT_API_ENDPOINT=api.firebolt.io
+FIREBOLT_API_ENDPOINT=api.app.firebolt.io
 FIREBOLT_API_KEY=your_client_id_here
 FIREBOLT_API_SECRET=your_client_secret_here
 FIREBOLT_DATABASE=your_database_name
